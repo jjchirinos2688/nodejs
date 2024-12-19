@@ -50,4 +50,10 @@ const getInfoUsuario = async( id ) => {
     }
 }
 
-getInfoUsuario(4)
+// getInfoUsuario(4)
+
+
+module.exports = {
+    getUsuario,
+    getInfoUsuario
+}
