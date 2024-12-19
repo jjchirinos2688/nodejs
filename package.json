@@ -1,5 +1,5 @@
 {
-  "name": "curso-nodejs",
+  "name": "curso-node-js",
   "version": "1.0.0",
   "description": "Prática y ejemplos nodejs",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jjchirinos2688/nodejs/issues"
   },
-  "homepage": "https://github.com/jjchirinos2688/nodejs#readme"
+  "homepage": "https://github.com/jjchirinos2688/nodejs#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
